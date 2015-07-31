@@ -1,3 +1,7 @@
 #testing of new repo
 #should throw a error
+<<<<<<< HEAD
 #new commit
+=======
+#commit 2
+>>>>>>> branch 'master' of https://github.com/wyze16/tests.git
